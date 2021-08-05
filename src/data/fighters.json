@@ -1,0 +1,1136 @@
+{
+  "mario": {
+    "name": "Mario",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/mario/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/9/9e/MarioHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "yoshi": {
+    "name": "Yoshi",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/yoshi/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/9/93/YoshiHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "link": {
+    "name": "Link",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/link/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/2/2b/LinkHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "samus": {
+    "name": "Samus",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/samus/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/d/d0/SamusHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "dark_samus": {
+    "name": "Dark Samus",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/dark_samus/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/2/24/DarkSamusHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "kirby": {
+    "name": "Kirby",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/kirby/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/1/15/KirbyHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "fox": {
+    "name": "Fox",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/fox/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/c/c9/FoxHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "pikachu": {
+    "name": "Pikachu",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/pikachu/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/5/52/PikachuHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "luigi": {
+    "name": "Luigi",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/luigi/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/9/9d/LuigiHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "ness": {
+    "name": "Ness",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/ness/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/d/d5/NessHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "captain_falcon": {
+    "name": "Captain Falcon",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/captain_falcon/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/6/6b/CaptainFalconHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "jigglypuff": {
+    "name": "Jigglypuff",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/jigglypuff/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/9/90/JigglypuffHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "peach": {
+    "name": "Peach",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/peach/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/1/14/PeachHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "daisy": {
+    "name": "Daisy",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/daisy/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/2/2d/DaisyHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "bowser": {
+    "name": "Bowser",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/bowser/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/0/0b/BowserHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "ice_climbers": {
+    "name": "Ice Climbers",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/ice_climbers/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/0/0c/IceClimbersHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "sheik": {
+    "name": "Sheik",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/sheik/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/1/1e/SheikHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "zelda": {
+    "name": "Zelda",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/zelda/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/c/c8/ZeldaHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "dr_mario": {
+    "name": "Dr. Mario",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/dr_mario/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/c/c8/DrMarioHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "pichu": {
+    "name": "Pichu",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/pichu/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/5/50/PichuHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "falco": {
+    "name": "Falco",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/falco/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/6/6e/FalcoHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "marth": {
+    "name": "Marth",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/marth/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/a/ae/MarthHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "lucina": {
+    "name": "Lucina",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/lucina/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/d/d8/LucinaHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "young_link": {
+    "name": "Young Link",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/young_link/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/c/c0/YoungLinkHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "ganondorf": {
+    "name": "Ganondorf",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/ganondorf/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/b/b6/GanondorfHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "mewtwo": {
+    "name": "Mewtwo",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/mewtwo/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/7/7e/MewtwoHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "roy": {
+    "name": "Roy",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/roy/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/2/22/RoyHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "chrom": {
+    "name": "Chrom",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/chrom/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/7/70/ChromHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "mr_game_and_watch": {
+    "name": "Mr. Game & Watch",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/mr_game_and_watch/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/1/15/MrGame%26WatchHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "meta_knight": {
+    "name": "Meta Knight",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/meta_knight/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/3/3d/MetaKnightHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "pit": {
+    "name": "Pit",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/pit/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/d/d7/PitHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "dark_pit": {
+    "name": "Dark Pit",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/dark_pit/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/8/8b/DarkPitHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "zero_suit_samus": {
+    "name": "Zero Suit Samus",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/zero_suit_samus/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/5/5a/ZeroSuitSamusHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "wario": {
+    "name": "Wario",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/wario/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/7/7f/WarioHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "snake": {
+    "name": "Snake",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/snake/main8.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/9/9f/SnakeHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "ike": {
+    "name": "Ike",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/ike/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/2/25/IkeHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "pokemon_trainer": {
+    "name": "Pokémon Trainer",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/pokemon_trainer/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/2/2c/PokémonTrainerHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "diddy_kong": {
+    "name": "Diddy Kong",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/diddy_kong/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/5/5d/DiddyKongHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "lucas": {
+    "name": "Lucas",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/lucas/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/3/31/LucasHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "sonic": {
+    "name": "Sonic",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/sonic/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/b/b7/SonicHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "king_dedede": {
+    "name": "King Dedede",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/king_dedede/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/f/fe/KingDededeHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "olimar": {
+    "name": "Olimar",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/olimar/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/9/97/OlimarHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "lucario": {
+    "name": "Lucario",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/lucario/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/2/20/LucarioHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "rob": {
+    "name": "R.O.B.",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/rob/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/b/be/ROBHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "toon_link": {
+    "name": "Toon Link",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/toon_link/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/b/bf/ToonLinkHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "wolf": {
+    "name": "Wolf",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/wolf/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/0/06/WolfHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "villager": {
+    "name": "Villager",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/villager/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/f/f9/VillagerHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "mega_man": {
+    "name": "Mega Man",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/mega_man/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/2/26/MegaManHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "wii_fit_trainer": {
+    "name": "Wii Fit Trainer",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/wii_fit_trainer/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/f/fc/WiiFitTrainerHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "rosalina_and_luma": {
+    "name": "Rosalina & Luma",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/rosalina_and_luma/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/6/63/RosalinaHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "little_mac": {
+    "name": "Little Mac",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/little_mac/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/8/87/LittleMacHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "greninja": {
+    "name": "Greninja",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/greninja/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/7/79/GreninjaHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "palutena": {
+    "name": "Palutena",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/palutena/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/d/d7/PalutenaHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "pac_man": {
+    "name": "Pac-Man",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/pac_man/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/3/3d/Pac-ManHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "robin": {
+    "name": "Robin",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/robin/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/4/43/RobinHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "shulk": {
+    "name": "Shulk",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/shulk/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/b/bf/ShulkHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "bowser_jr": {
+    "name": "Bowser Jr.",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/bowser_jr/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/3/3e/BowserJrHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "duck_hunt": {
+    "name": "Duck Hunt",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/duck_hunt/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/3/38/DuckHuntHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "ryu": {
+    "name": "Ryu",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/ryu/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/2/20/RyuHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "ken": {
+    "name": "Ken",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/ken/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/e/ef/KenHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "cloud": {
+    "name": "Cloud",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/cloud/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/c/cb/CloudHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "corrin": {
+    "name": "Corrin",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/corrin/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/6/6a/CorrinHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "bayonetta": {
+    "name": "Bayonetta",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/bayonetta/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/2/27/BayonettaHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "inkling": {
+    "name": "Inkling",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/inkling/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/0/04/InklingHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "ridley": {
+    "name": "Ridley",
+    "image": "Ridley",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/7/7c/RidleyHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "simon": {
+    "name": "Simon",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/simon/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/5/52/SimonHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "richter": {
+    "name": "Richter",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/richter/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/a/ab/RichterHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "king_k_rool": {
+    "name": "King K. Rool",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/king_k_rool/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/3/35/KingKRoolHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "isabelle": {
+    "name": "Isabelle",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/isabelle/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/2/2e/IsabelleHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "incineroar": {
+    "name": "Incineroar",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/incineroar/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/e/e3/IncineroarHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "piranha_plant": {
+    "name": "Piranha Plant",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/piranha_plant/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/c/cf/PiranhaPlantHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "joker": {
+    "name": "Joker",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/joker/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/6/63/JokerHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "hero": {
+    "name": "Hero",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/dq_hero/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/1/1e/HeroHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "banjo_and_kazooie": {
+    "name": "Banjo & Kazooie",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/banjo_and_kazooie/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/1/12/Banjo%26KazooieHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "terry": {
+    "name": "Terry",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/terry/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/2/2e/TerryHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "byleth": {
+    "name": "Byleth",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/byleth/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/8/86/BylethHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "min_min": {
+    "name": "Min Min",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/minmin/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/f/fc/MinMinHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "steve": {
+    "name": "Steve😂👌",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/steve/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/4/4f/SteveHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "sephiroth": {
+    "name": "Sephiroth",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/sephiroth/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/6/64/SephirothHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "pyra_and_mythra": {
+    "name": "Pyra/Mythra",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/pyra/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/7/7c/PyraHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  },
+  "kazyua": {
+    "name": "Kazuya",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/kazuya/main.png",
+    "image_preview": {
+      "valueType": "IMAGE"
+    },
+    "head_icon": "https://ssb.wiki.gallery/images/8/85/KazuyaHeadSSBUWebsite.png",
+    "icon_preview": {
+      "valueType": "IMAGE"
+    },
+    "c_e": null,
+    "c_m": null,
+    "c_h": null
+  }
+}
