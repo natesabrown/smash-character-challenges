@@ -16,7 +16,7 @@ function usePrevious(value) {
 
 function Cards({ chars, setChars, diffArr, changeCharDiff, selected }) {
   const isMobile = useMediaQuery({
-    query: '(max-width: 767px)'
+    query: '(max-device-width: 767px)'
   });
   const [curInd, setCurInd] = useState(0);
   const previousChars = usePrevious(chars);
@@ -110,6 +110,10 @@ const CardsDiv = styled.div`
   }
   ${constants.MOBILE_BREAKPOINT} {
     grid-template-columns: repeat(1, minmax(0, 1fr));
+  }
+  ${constants.COMPUTER_SMALL_BREAKPOINT} {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    justify-items: center;
   }
 `
 
@@ -285,6 +289,9 @@ const CardDiv = styled.div`
   ${constants.MOBILE_BREAKPOINT} {
     place-self: center;
     width: 100%;
+  }
+  ${constants.COMPUTER_SMALL_BREAKPOINT} {
+    width: 320px;
   }
 `
 

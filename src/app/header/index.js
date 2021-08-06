@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import styled from 'styled-components';
 import constants from 'data/constants';
 import { getSelected, DLC_OBJS } from 'data/dlc';
+import challenge_text from './challenge-text.svg';
 
 const Header = ({ selected, setSelected }) => (
   <Wrapper>
@@ -26,6 +27,7 @@ const Main = styled.header`
   color: white;
   display: flex;
   flex-direction: row;
+  align-items: center;
   justify-content: space-between;
   padding: 10px 20px;
   position: relative;
@@ -38,8 +40,7 @@ const Main = styled.header`
 
 const Title = () => (
   <TitleContainer>
-    <span>Smash</span>
-    <span>Character Challenge</span>
+    <img src={challenge_text} />
   </TitleContainer>
 )
 
@@ -47,6 +48,9 @@ const TitleContainer = styled.h1`
   display: inline-flex;
   flex-direction: column;
   align-items: center;
+  img {
+    width: 300px;
+  }
 `
 
 function DLCChoose({ selected, setSelected}) {
