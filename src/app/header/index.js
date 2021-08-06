@@ -31,6 +31,9 @@ const Main = styled.header`
   position: relative;
   z-index: 1;
   max-width: ${constants.MAX_WIDTH};
+  ${constants.MOBILE_BREAKPOINT} {
+    flex-direction: column;
+  }
 `
 
 const Title = () => (
@@ -82,10 +85,14 @@ function DLCChoose({ selected, setSelected}) {
 const ButtonsDiv = styled.div`
   display: flex;
   justify-content: space-between;
+  ${constants.MOBILE_BREAKPOINT} {
+    padding: 10px 20px;
+  }
 `
 
 const CheckAll = styled.button`
   border-radius: 10px;
+  background-color: #DDDDDD;
 `
 
 const DLCContainer = styled.div`
@@ -145,6 +152,10 @@ const DLCChoiceContainer = styled.button`
   height: 50px;
   width: 50px;
   border-radius: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #DDDDDD;
 `
 
 export default Header;

@@ -3,6 +3,7 @@ import styled, { createGlobalStyle } from 'styled-components';
 import Header from './header';
 import TopBar from './topbar';
 import Cards from './cards';
+import Points from './points';
 import constants from 'data/constants';
 import { getRandomFighters, getRandomFighter } from 'data/testingFunctions';
 import { getSelected } from 'data/dlc';
@@ -10,6 +11,7 @@ import { getSelected } from 'data/dlc';
 const GlobalStyle = createGlobalStyle`
   html, body {
     margin: 0;
+    overflow-x: hidden;
   }
   body {
     font-family: 'Roboto', sans-serif;
@@ -87,6 +89,7 @@ function App() {
           setDiffArrTo={setDiffArrTo}
         />
         <Cards chars={chars} setChars={setChars} diffArr={diffArr} changeCharDiff={changeCharDiff} selected={selected}/>
+        <Points chars={chars}/>
       </Container>
     </Wrapper>
     </>

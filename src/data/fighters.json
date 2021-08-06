@@ -9,9 +9,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Spike your opponent offstage with forward aerial.",
+    "c_m": "Take a stock with FLUDD.",
+    "c_h": "Take a stock with cape."
   },
   "yoshi": {
     "name": "Yoshi",
@@ -23,9 +23,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Hit 3 projectile eggs (up special) in a row.",
+    "c_m": "Send your opponent offstage with neutral special.",
+    "c_h": "Win the match without using A-moves."
   },
   "link": {
     "name": "Link",
@@ -37,9 +37,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Retrieve an arrow from the ground and hit the opponent with it.",
+    "c_m": "Take a stock with remote bomb (down special).",
+    "c_h": "Land two blade beams in a row on your opponent."
   },
   "samus": {
     "name": "Samus",
@@ -51,9 +51,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Spike your opponent with down aerial.",
+    "c_m": "Take a stock with a non fully-charged charge shot.",
+    "c_h": "Hit four uninterrupted forward aerials in a row."
   },
   "dark_samus": {
     "name": "Dark Samus",
@@ -65,9 +65,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Land two tethers on your opponent uninterrupted.",
+    "c_m": "Take a stock with screw attack.",
+    "c_h": "Win the match without using projectiles."
   },
   "kirby": {
     "name": "Kirby",
@@ -79,9 +79,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Take a stock with down-A offstage.",
+    "c_m": "Take a stock by swallowing your opponent offstage and falling until your death.",
+    "c_h": "Kill your opponent with their copy ability."
   },
   "fox": {
     "name": "Fox",
@@ -93,9 +93,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Get 50% off an opponent's stock with blaster.",
+    "c_m": "Kill your opponent with shine (down special).",
+    "c_h": "Rack up 100% damage in 1 stock using only the blaster."
   },
   "pikachu": {
     "name": "Pikachu",
@@ -107,9 +107,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Go around the bottom of the stage.",
+    "c_m": "Spike your opponent with thunder.",
+    "c_h": "Take a stock with a fully charged skull bash (side special)."
   },
   "luigi": {
     "name": "Luigi",
@@ -121,9 +121,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Take a stock with up special.",
+    "c_m": "Take a stock with a misfired side special.",
+    "c_h": "Get the infamous \"luigi zero-to-death.\""
   },
   "ness": {
     "name": "Ness",
@@ -135,9 +135,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Take a stock with PK Flash (neutral special).",
+    "c_m": "Trap an opponent on the stage's edge with a yoyo.",
+    "c_h": "Be wholesome (don't use PK fire)."
   },
   "captain_falcon": {
     "name": "Captain Falcon",
@@ -149,9 +149,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Take a stock with the knee.",
+    "c_m": "Spike opponent with up tilt.",
+    "c_h": "Land an offstage falcon punch."
   },
   "jigglypuff": {
     "name": "Jigglypuff",
@@ -163,9 +163,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Successfully land a sing off the edge of the stage.",
+    "c_m": "Land an aerial down special.",
+    "c_h": "Take a stock with down special off stage."
   },
   "peach": {
     "name": "Peach",
@@ -177,9 +177,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Take a stock with the tennis racket.",
+    "c_m": "Gimp your opponent offstage with a turnip.",
+    "c_h": "Pull a bob-omb."
   },
   "daisy": {
     "name": "Daisy",
@@ -191,9 +191,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Take a stock with the frying pan.",
+    "c_m": "Land a stitch-faced turnip on your opponent.",
+    "c_h": "Take all of your opponent's stocks with counter (neutral special)."
   },
   "bowser": {
     "name": "Bowser",
@@ -205,9 +205,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Take your opponent offstage with side-special.",
+    "c_m": "Spike opponent offstage with down special.",
+    "c_h": "Win while only traversing stage by crawling (crouch walk) for the entire match."
   },
   "ice_climbers": {
     "name": "Ice Climbers",
@@ -219,9 +219,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "De-sync the ice climbers.",
+    "c_m": "Freeze an opponent offstage.",
+    "c_h": "Win with exclusively SoPo (give Nana the big yeetus)."
   },
   "sheik": {
     "name": "Sheik",
@@ -233,9 +233,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Land the up special explosion.",
+    "c_m": "Get your opponent to 250%.",
+    "c_h": "Get 20 jabs in on your opponent in one grab."
   },
   "zelda": {
     "name": "Zelda",
@@ -247,9 +247,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Take a stock with the knight (down special).",
+    "c_m": "Take a stock with the knight (down special) off-stage.",
+    "c_h": "Snipe and KO of someone with up special (no dragging them into it)."
   },
   "dr_mario": {
     "name": "Dr. Mario",
@@ -261,9 +261,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Take a stock by spiking your opponent offstage.",
+    "c_m": "Footstool an opponent offstage.",
+    "c_h": "Take a stock with cape."
   },
   "pichu": {
     "name": "Pichu",
@@ -275,9 +275,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Meteor smash your opponent with thunder .",
+    "c_m": "Live to 150%.",
+    "c_h": "Live to 225%"
   },
   "falco": {
     "name": "Falco",
@@ -289,9 +289,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Land 4 up tilts in a row without getting hit in-between.",
+    "c_m": "Take every stock with a down air.",
+    "c_h": "Personally, you prefer the ground (no jumping for the entire match)."
   },
   "marth": {
     "name": "Marth",
@@ -303,9 +303,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Combo a tipper into a forward smash.",
+    "c_m": "Take a stock with upward side special.",
+    "c_h": "Get three tippers uninterrupted."
   },
   "lucina": {
     "name": "Lucina",
@@ -317,9 +317,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Use all three variations of side special during one stock.",
+    "c_m": "Take a stock using an airborne counter.",
+    "c_h": "Force opponent into tumble."
   },
   "young_link": {
     "name": "Young Link",
@@ -331,9 +331,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Recover back to the stage using your bomb.",
+    "c_m": "K.O. an airborne opponent with up special.",
+    "c_h": "Win the match only using projectiles and grabs."
   },
   "ganondorf": {
     "name": "Ganondorf",
@@ -345,9 +345,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Combo side special into side special.",
+    "c_m": "Pull down opponent with offstage side special.",
+    "c_h": "Hit an offstage warlock punch (neutral special)."
   },
   "mewtwo": {
     "name": "Mewtwo",
@@ -359,9 +359,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Live to 140%.",
+    "c_m": "Disable (down special) opponent twice in the same stock.",
+    "c_h": "Take a stock with non fully-charged shadow ball (neutral special)."
   },
   "roy": {
     "name": "Roy",
@@ -373,9 +373,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Land a meteor smash on your opponent.",
+    "c_m": "Land a fully charged neutral special on opponent.",
+    "c_h": "Take all 3 stocks with counter."
   },
   "chrom": {
     "name": "Chrom",
@@ -387,9 +387,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Successfully edge-guard opponent without dying.",
+    "c_m": "Parry 5 times in a stock.",
+    "c_h": "Take a stock with suicide up special."
   },
   "mr_game_and_watch": {
     "name": "Mr. Game & Watch",
@@ -401,9 +401,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "K.O. with up air.",
+    "c_m": "Land a 9 (side special).",
+    "c_h": "K.O. with side special other than a 9."
   },
   "meta_knight": {
     "name": "Meta Knight",
@@ -415,9 +415,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Say \"Fight Me\" after every time you use a smash attack on an opponent.",
+    "c_m": "K.O. opponent using side special offstage.",
+    "c_h": "Chain a string of five up airs (bing, bang, boom, badda-bap-boom, POW!)"
   },
   "pit": {
     "name": "Pit",
@@ -429,9 +429,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Combo neutral air into itself 3 times.",
+    "c_m": "Break your shield (down special) 5 times in one stock.",
+    "c_h": "K.O. opponent with down air offstage. (It's pretty hard trust me.)"
   },
   "dark_pit": {
     "name": "Dark Pit",
@@ -443,9 +443,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Take all stocks with electro-shock (side special).",
+    "c_m": "Up special from one corner of the stage to the other 3 times during the match.",
+    "c_h": "K.O. opponent with down air offstage. (It's pretty hard trust me.)"
   },
   "zero_suit_samus": {
     "name": "Zero Suit Samus",
@@ -457,9 +457,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Land 5 Z-airs (tether) during one stock.",
+    "c_m": "Spike opponent offstage with flipkick.",
+    "c_h": "K.O. opponent with down air offstage."
   },
   "wario": {
     "name": "Wario",
@@ -471,9 +471,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Taunt while on the bike.",
+    "c_m": "Chomp (neutral special) an opponent while falling offstage to both of y'all's demise.",
+    "c_h": "Trip with an uncharged waft (down special)."
   },
   "snake": {
     "name": "Snake",
@@ -485,9 +485,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Stick a C4 on your opponent.",
+    "c_m": "K.O. yourself with a C4 at less than 50%.",
+    "c_h": "Hit someone with the box from Snake's taunts."
   },
   "ike": {
     "name": "Ike",
@@ -499,9 +499,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Take your opponent down with you offstage using up special.",
+    "c_m": "Only do damage by grounding up to 100% for one stock.",
+    "c_h": "Win without using up special."
   },
   "pokemon_trainer": {
     "name": "Pokémon Trainer",
@@ -513,9 +513,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Play just one Pokémon for each stock.",
+    "c_m": "Get every K.O. with Squirtle.",
+    "c_h": "Swap Pokémon every time you land a hit."
   },
   "diddy_kong": {
     "name": "Diddy Kong",
@@ -527,9 +527,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Get a K.O. with the barrel (up special).",
+    "c_m": "Only hit the opponent when they've been tripped by your banana.",
+    "c_h": "Take the first 40% of each of your opponent's stocks using only the peanut gun."
   },
   "lucas": {
     "name": "Lucas",
@@ -541,9 +541,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Only recover using the snake (no up special).",
+    "c_m": "K.O. your opponent while they are buried.",
+    "c_h": "Land all 4 specials in a row without getting hit in between."
   },
   "sonic": {
     "name": "Sonic",
@@ -555,9 +555,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Hit an opponent with spring offstage.",
+    "c_m": "Get opponent to jump on the spring.",
+    "c_h": "Win without ever turning into a ball."
   },
   "king_dedede": {
     "name": "King Dedede",
@@ -569,9 +569,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Get de suck-and-cuck.",
+    "c_m": "Kick a gordo (side special) back and forth at least three times (bop bop bop).",
+    "c_h": "Spike opponent with up special."
   },
   "olimar": {
     "name": "Olimar",
@@ -583,9 +583,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Only have two pikmins max by your side.",
+    "c_m": "Hold 3 purple pikmin at once.",
+    "c_h": "Win a stock without using any pikmin."
   },
   "lucario": {
     "name": "Lucario",
@@ -597,9 +597,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Take a stock with force palm (command-grab side special).",
+    "c_m": "Lock a shielding opponent in neutral special.",
+    "c_h": "Purposefully lose two stocks at the beginning of the match."
   },
   "rob": {
     "name": "R.O.B.",
@@ -611,9 +611,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Throw a gyro (down special) up in the air and have it hit someone.",
+    "c_m": "Run out of gas (up special) from full three times during a stock.",
+    "c_h": "Trap opponent between continuous down tilt and gyro (down special)."
   },
   "toon_link": {
     "name": "Toon Link",
@@ -625,9 +625,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Block 3 attacks with your idle shield.",
+    "c_m": "K.O. your opponent with offstage down air.",
+    "c_h": "Start every stock by dealing 40% to yourself with the bomb."
   },
   "wolf": {
     "name": "Wolf",
@@ -639,9 +639,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Up taunt at the beginning of each stock.",
+    "c_m": "Only get damage using aerials.",
+    "c_h": "Get a K.O. with side special."
   },
   "villager": {
     "name": "Villager",
@@ -653,9 +653,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "K.O. with axe.",
+    "c_m": "Hit opponent with the wood from your tree.",
+    "c_h": "Get 10 t-bags off while your opponent is buried."
   },
   "mega_man": {
     "name": "Mega Man",
@@ -667,9 +667,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Hit your opponent with a side special and then get it to stick to you.",
+    "c_m": "Stick a detonation mine (side special) on the stage and have it hit your opponent.",
+    "c_h": "Take a stock with the pellet gun."
   },
   "wii_fit_trainer": {
     "name": "Wii Fit Trainer",
@@ -681,9 +681,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "K.O. with up air.",
+    "c_m": "Only hit opponent under the effects of down special.",
+    "c_h": "Hit a buried opponent from afar with the soccer ball."
   },
   "rosalina_and_luma": {
     "name": "Rosalina & Luma",
@@ -695,9 +695,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "K.O. someone without the presence of a luma.",
+    "c_m": "Successfully edge guard opponent using only luma.",
+    "c_h": "Take a stock only using luma."
   },
   "little_mac": {
     "name": "Little Mac",
@@ -709,9 +709,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Take a stock with K.O. punch.",
+    "c_m": "Take a stock offstage.",
+    "c_h": "K.O. with an aerial."
   },
   "greninja": {
     "name": "Greninja",
@@ -723,9 +723,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Get damage with down taunt.",
+    "c_m": "Spike an opponent offstage using substitute",
+    "c_h": "Get five down aerials in a row without landing."
   },
   "palutena": {
     "name": "Palutena",
@@ -737,9 +737,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Hit an opponent with both variants of side special in a single stock.",
+    "c_m": "Gimp opponent with neutral special.",
+    "c_h": "Take one stock only using neutral air."
   },
   "pac_man": {
     "name": "Pac-Man",
@@ -751,9 +751,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Force your opponent to jump on the trampoline (up special).",
+    "c_m": "K.O. opponent with a circle made from side special.",
+    "c_h": "Hit opponent with every neutral special variant in one stock."
   },
   "robin": {
     "name": "Robin",
@@ -765,9 +765,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Get an down special offstage.",
+    "c_m": "Hit your opponent with the green book.",
+    "c_h": "Combo three side specials into each other."
   },
   "shulk": {
     "name": "Shulk",
@@ -779,13 +779,13 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "K.O. with side special and then say \"I'm really feeling it!\"",
+    "c_m": "Footstool your opponent in jump mode.",
+    "c_h": "Take a stock while in shield mode."
   },
   "bowser_jr": {
-    "name": "Bowser Jr.",
-    "image": "https://www.smashbros.com/assets_v2/img/fighter/bowser_jr/main.png",
+    "name": "Wendy",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/bowser_jr/main4.png",
     "image_preview": {
       "valueType": "IMAGE"
     },
@@ -793,9 +793,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Get a K.O. while out of your cart.",
+    "c_m": "Hit yourself with mecha-koopa (down special) 5 times in one stock.",
+    "c_h": "Get your opponent to 100% using only down tilt (tongue) for a stock."
   },
   "duck_hunt": {
     "name": "Duck Hunt",
@@ -807,9 +807,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Combo a throw into a dog can.",
+    "c_m": "Combo gunman into dog can.",
+    "c_h": "K.O. opponent with gunman (down special) or take stock by spiking with down air."
   },
   "ryu": {
     "name": "Ryu",
@@ -821,9 +821,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Get off a fully-charged down special.",
+    "c_m": "Take a stock only using aerials.",
+    "c_h": "K.O. immediately after a parry."
   },
   "ken": {
     "name": "Ken",
@@ -835,9 +835,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Land a fire Hodeken.",
+    "c_m": "K.O. with a non-firey Hadoken.",
+    "c_h": "K.O. with side special."
   },
   "cloud": {
     "name": "Cloud",
@@ -849,9 +849,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Take opponent's stock using suicide up special.",
+    "c_m": "Get a K.O. with down special limit.",
+    "c_h": "Get at least 9 limit moves off during the match."
   },
   "corrin": {
     "name": "Corrin",
@@ -863,9 +863,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "K.O. your opponent with a non-stick side special.",
+    "c_m": "K.O. opponent with neutral special's dragon chomper.",
+    "c_h": "K.O. with offstage down air."
   },
   "bayonetta": {
     "name": "Bayonetta",
@@ -877,9 +877,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Get 6 hits in a row.",
+    "c_m": "Successfully guard your opponent with the heel (down smash).",
+    "c_h": "Get 3 witch time moves in a row without getting hit in-between."
   },
   "inkling": {
     "name": "Inkling",
@@ -891,13 +891,13 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Take a stock after emptying all your ink.",
+    "c_m": "Bury your opponent with roller 3 times in one stock.",
+    "c_h": "Play the whole game with empty ink reserves."
   },
   "ridley": {
     "name": "Ridley",
-    "image": "Ridley",
+    "image": "https://www.smashbros.com/assets_v2/img/fighter/ridley/main.png",
     "image_preview": {
       "valueType": "IMAGE"
     },
@@ -905,9 +905,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Spike an opponent with up special.",
+    "c_m": "Drag your opponent to your doom with side special.",
+    "c_h": "Land a skewer tip (down special)."
   },
   "simon": {
     "name": "Simon",
@@ -919,9 +919,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Take a stock with up special.",
+    "c_m": "Catch your own holy water (down special).",
+    "c_h": "Win without using projectiles."
   },
   "richter": {
     "name": "Richter",
@@ -933,9 +933,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Crouch walk across the stage without being interrupted.",
+    "c_m": "Chain at least three down airs.",
+    "c_h": "Win using only special moves."
   },
   "king_k_rool": {
     "name": "King K. Rool",
@@ -947,9 +947,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Take a stock off after burying with down tilt.",
+    "c_m": "Suck n' cuck your opponent.",
+    "c_h": "Take a stock with the propellor (up special)."
   },
   "isabelle": {
     "name": "Isabelle",
@@ -961,9 +961,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Take a stock using slingshot (side special).",
+    "c_m": "Gimp an opponent with fishing rod.",
+    "c_h": "Hit an opponent with a manually triggered lloid rocket (down special)."
   },
   "incineroar": {
     "name": "Incineroar",
@@ -975,9 +975,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Take a stock by using darkest lariate (neutral special) offstage.",
+    "c_m": "Deal over 70 damage with a single hit by unleashing charge through side special.",
+    "c_h": "Take a stock by carrying your opponent with a suicide up special off stage."
   },
   "piranha_plant": {
     "name": "Piranha Plant",
@@ -989,9 +989,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Spike an opponent offstage.",
+    "c_m": "Grab and trap an opponent in the poisonous cloud (side special).",
+    "c_h": "Take a stock with up special."
   },
   "joker": {
     "name": "Joker",
@@ -1003,9 +1003,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Grab an opponent out of the air with tether (up special).",
+    "c_m": "Take a stock with the first hit of Arsène.",
+    "c_h": "Take a stock using guns offstage."
   },
   "hero": {
     "name": "Hero",
@@ -1017,9 +1017,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Win the match without using the spell menu (down special).",
+    "c_m": "Take a stock with magic burst.",
+    "c_h": "Land kamikaze on your opponent."
   },
   "banjo_and_kazooie": {
     "name": "Banjo & Kazooie",
@@ -1031,9 +1031,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Recover offstage by hitting yourself with your own grenade.",
+    "c_m": "Hit your opponent with the platform that falls down from up special.",
+    "c_h": "Use down taunt after every successful hit on your opponent."
   },
   "terry": {
     "name": "Terry",
@@ -1045,9 +1045,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Get a \"Go Move\" off on your opponent.",
+    "c_m": "Live for a minute after getting Go Meter.",
+    "c_h": "Win while only starting to play each stock once you have Go."
   },
   "byleth": {
     "name": "Byleth",
@@ -1059,9 +1059,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Land a down special on your opponent.",
+    "c_m": "Grab an opponent offstage with up special.",
+    "c_h": "Take a stock with down special."
   },
   "min_min": {
     "name": "Min Min",
@@ -1073,12 +1073,12 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Land each arm in a row on your opponent uninterrupted.",
+    "c_m": "Take a stock without using your arms.",
+    "c_h": "Win the match without using your arms."
   },
   "steve": {
-    "name": "Steve😂👌",
+    "name": "Steve",
     "image": "https://www.smashbros.com/assets_v2/img/fighter/steve/main.png",
     "image_preview": {
       "valueType": "IMAGE"
@@ -1087,9 +1087,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Build an \"L\" out of blocks in the middle of the match.",
+    "c_m": "Take a stock with TNT.",
+    "c_h": "Build an \"F out of blocks in the middle of the match."
   },
   "sephiroth": {
     "name": "Sephiroth",
@@ -1101,9 +1101,9 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Stack five shadowflares (side special) on your opponent.",
+    "c_m": "Get a shield break.",
+    "c_h": "Take a stock offstage with octo-slash (up special)."
   },
   "pyra_and_mythra": {
     "name": "Pyra/Mythra",
@@ -1115,11 +1115,11 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Take a stock with neutral special.",
+    "c_m": "Use Pyra to deal damage and Mythra to take each stock.",
+    "c_h": "For one whole stock or more, get your opponent to at least 200% only using Pyra."
   },
-  "kazyua": {
+  "kazuya": {
     "name": "Kazuya",
     "image": "https://www.smashbros.com/assets_v2/img/fighter/kazuya/main.png",
     "image_preview": {
@@ -1129,8 +1129,8 @@
     "icon_preview": {
       "valueType": "IMAGE"
     },
-    "c_e": null,
-    "c_m": null,
-    "c_h": null
+    "c_e": "Get your opponent to 100% using only 10-hit combo (jabs).",
+    "c_m": "Take a stock at the stage's edge with down smash.",
+    "c_h": "K.O opponent with side taunt."
   }
 }

@@ -8,9 +8,11 @@ import { AiFillMinusCircle } from 'react-icons/ai';
 const TopBar = ({ onResetPress, onAddPress, onSubtractPress, setDiffArrTo }) => (
   <Main>
     <LeftContent>
-      <ResetButton onClick={onResetPress}> <VscDebugRestart /> Reset All</ResetButton>
-      <AddButton onClick={onAddPress}><BsPlusCircleFill /></AddButton>
-      <AddButton onClick={onSubtractPress} minus><AiFillMinusCircle/></AddButton>
+      <ResetButton onClick={onResetPress}> <VscDebugRestart /> Reset Characters</ResetButton>
+      <ButtonsHolder>
+        <AddButton onClick={onAddPress}><BsPlusCircleFill /></AddButton>
+        <AddButton onClick={onSubtractPress} minus><AiFillMinusCircle/></AddButton>
+      </ButtonsHolder>
     </LeftContent>
     <SetEveryone setDiffArrTo={setDiffArrTo}/>
   </Main>
@@ -21,10 +23,13 @@ const Main = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: flex-start;
+  ${constants.MOBILE_BREAKPOINT} {
+    flex-direction: column;
+  }
 `
 
 const ResetButton = styled.button`
-  font-size: 24px;
+  font-size: 18px;
   background-color: green;
   display: flex;
   align-items: center;
@@ -42,6 +47,14 @@ const LeftContent = styled.div`
   display: flex;
   flex-direction: row;
   align-items: center;
+  ${constants.MOBILE_BREAKPOINT} {
+    width: 100%;
+    justify-content: space-between;
+  }
+`
+
+const ButtonsHolder = styled.div`
+  display: flex;
 `
 
 const AddButton = styled.button`
@@ -77,6 +90,14 @@ const SetEveryoneContainer = styled.div`
     font-weight: bold;
     margin-bottom: 5px;
   }
+
+  ${constants.MOBILE_BREAKPOINT} {
+    padding: 10px 15px;
+    border-radius: 12px;
+    background-color: #DDDDDD;
+    align-self: center;
+    margin-top: 12px;
+  }
 `
 
 const Buttons = styled.div`
@@ -94,12 +115,14 @@ const ChoiceButton = styled.button`
         constants.HARD_COLOR : ""};
 
   color: white;
-  font-size: 24px;
+  font-size: 20px;
   font-weight: bold;
   width: 45px;
   height: 45px;
   border-radius: 45px;
-
+  display: flex;
+  align-items: center;
+  justify-content: center;
 `
 
 export default TopBar;
