@@ -7,7 +7,6 @@ import Points from './points';
 import constants from 'data/constants';
 import { getRandomFighters, getRandomFighter } from 'data/testingFunctions';
 import { getSelected } from 'data/dlc';
-import { Helmet } from 'react-helmet';
 
 
 const GlobalStyle = createGlobalStyle`
@@ -80,9 +79,6 @@ function App() {
 
   return (
     <>
-    <Helmet>
-      <title>Smash Character Challenges</title>
-    </Helmet>
     <GlobalStyle />
     <Header selected={selected} setSelected={setSelected} />
     <Wrapper>
