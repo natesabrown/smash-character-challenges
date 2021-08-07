@@ -20,6 +20,10 @@ A React app to play local multiplayer smash with specific challenges of differen
 * Install application as a PWA on your phone.
 * Looks good on tablets, phones, and computers.
 
+## Usage
+
+At the moment, this website uses assets from other websites (not a great practice), so use at your own risk. If you would like to contribute, please open an issue. If you would like to fork this repository and improve upon it/make your own version, feel free to do so, but please remove the footer and make your own.
+
 ## Future Goals
 
 **(8/6/21):**
