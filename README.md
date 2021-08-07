@@ -26,3 +26,4 @@ A React app to play local multiplayer smash with specific challenges of differen
 
 * I hope to move the images from the original websites to a custom CDN.
 * Minor UI/UX improvements to improve the overall flow (footer, box-sizing changes, DLC section border).
+* Add an info section on how to play

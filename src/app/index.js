@@ -17,12 +17,14 @@ const GlobalStyle = createGlobalStyle`
   }
   body {
     font-family: 'Roboto', sans-serif;
-    height: 100vh;
+    min-height: 100vh;
+    /* mobile viewport bug fix */
+    min-height: -webkit-fill-available;
   }
   #root {
-    height: 100vh;
     display: flex;
     flex-direction: column;
+    min-height: 100vh;
   }
 `
 
