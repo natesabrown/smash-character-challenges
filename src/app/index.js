@@ -4,6 +4,7 @@ import Header from './header';
 import TopBar from './topbar';
 import Cards from './cards';
 import Points from './points';
+import Footer from './footer';
 import constants from 'data/constants';
 import { getRandomFighters, getRandomFighter } from 'data/testingFunctions';
 import { getSelected } from 'data/dlc';
@@ -16,6 +17,12 @@ const GlobalStyle = createGlobalStyle`
   }
   body {
     font-family: 'Roboto', sans-serif;
+    height: 100vh;
+  }
+  #root {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
   }
 `
 
@@ -79,20 +86,21 @@ function App() {
 
   return (
     <>
-    <GlobalStyle />
-    <Header selected={selected} setSelected={setSelected} />
-    <Wrapper>
-      <Container>
-        <TopBar 
-          onResetPress={onResetPress} 
-          onAddPress={onAddPress} 
-          onSubtractPress={onSubtractPress}
-          setDiffArrTo={setDiffArrTo}
-        />
-        <Cards chars={chars} setChars={setChars} diffArr={diffArr} changeCharDiff={changeCharDiff} selected={selected}/>
-        <Points chars={chars}/>
-      </Container>
-    </Wrapper>
+      <GlobalStyle />
+      <Header selected={selected} setSelected={setSelected} />
+      <Wrapper>
+        <Container>
+          <TopBar
+            onResetPress={onResetPress}
+            onAddPress={onAddPress}
+            onSubtractPress={onSubtractPress}
+            setDiffArrTo={setDiffArrTo}
+          />
+          <Cards chars={chars} setChars={setChars} diffArr={diffArr} changeCharDiff={changeCharDiff} selected={selected} />
+          <Points chars={chars} />
+        </Container>
+      </Wrapper>
+      <Footer />
     </>
   )
 }

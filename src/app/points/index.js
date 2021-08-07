@@ -59,6 +59,7 @@ function Points({ chars }) {
 
 const Container = styled.div`
   padding: 10px;
+  margin-bottom: 20px;
 `
 
 const SectionTitle = styled.h2`
