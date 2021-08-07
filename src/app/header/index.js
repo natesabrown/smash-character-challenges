@@ -1,4 +1,5 @@
 import React, { useState, useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import styled from 'styled-components';
 import constants from 'data/constants';
 import { getSelected, DLC_OBJS } from 'data/dlc';
@@ -6,6 +7,9 @@ import challenge_text from './challenge-text.svg';
 
 const Header = ({ selected, setSelected }) => (
   <Wrapper>
+    <TopBar>
+      <Link to="/how-to-play">How to Play</Link>
+    </TopBar>
     <Main>
       <Title />
       <DLCChoose selected={selected} setSelected={setSelected} />
@@ -13,11 +17,42 @@ const Header = ({ selected, setSelected }) => (
   </Wrapper>
 )
 
+const TopBar = styled.div`
+  width: 100%;
+  max-width: ${constants.MAX_WIDTH};
+  position: relative;
+  z-index: 0;
+  padding: 10px;
+  box-sizing: border-box;
+  &:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 50%;
+    right: 0;
+    bottom: 0;
+    width: 100vw;
+    transform: translateX(-50%);
+    background-color: #444444;
+    z-index: -1;
+  }
+  a {
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+  }
+  display: flex;
+  justify-content: flex-end;
+`
+
 const Wrapper = styled.div`
   background-color: black;
   width: 100%;
   display: flex;
   justify-content: center;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
 `
 
 // much semantic very wow

@@ -1,32 +1,13 @@
 import React, { useState, useEffect } from 'react';
 import styled, { createGlobalStyle } from 'styled-components';
-import Header from './header';
-import TopBar from './topbar';
-import Cards from './cards';
-import Points from './points';
-import Footer from './footer';
+import Header from '../header';
+import TopBar from '../topbar';
+import Cards from '../cards';
+import Points from '../points';
+import Footer from '../footer';
 import constants from 'data/constants';
 import { getRandomFighters, getRandomFighter } from 'data/testingFunctions';
 import { getSelected } from 'data/dlc';
-
-
-const GlobalStyle = createGlobalStyle`
-  html, body {
-    margin: 0;
-    overflow-x: hidden;
-  }
-  body {
-    font-family: 'Roboto', sans-serif;
-    min-height: 100vh;
-    /* mobile viewport bug fix */
-    min-height: -webkit-fill-available;
-  }
-  #root {
-    display: flex;
-    flex-direction: column;
-    min-height: 100vh;
-  }
-`
 
 function App() {
   const [chars, setChars] = useState([]);
@@ -88,7 +69,6 @@ function App() {
 
   return (
     <>
-      <GlobalStyle />
       <Header selected={selected} setSelected={setSelected} />
       <Wrapper>
         <Container>
