@@ -24,11 +24,15 @@ function Cards({ chars, setChars, diffArr, changeCharDiff, selected }) {
   function nextCharacter() {
     if ((curInd + 1) != chars.length) {
       setCurInd(curInd + 1);
+    } else {
+      setCurInd(0);
     }
   }
   function previousCharacter() {
     if (curInd != 0) {
       setCurInd(curInd - 1);
+    } else {
+      setCurInd(chars.length - 1)
     }
   }
   useEffect(() => {
